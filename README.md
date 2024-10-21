@@ -36,6 +36,8 @@ I'm currently studying in a Bootcamp:
   </ul>
 </details>
 
+<br>
+
 You can contact me here:
 <div>
   <a href="https://www.linkedin.com/in/dennis-brendel-372236290/" taget="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
