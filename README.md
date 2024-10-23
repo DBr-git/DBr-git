@@ -19,7 +19,7 @@ I'm currently studying in a Bootcamp:
 <details>
   <summary>Things I've been working on:</summary>
   <ul>
-    <li>Java Plugins for Minecraft</li>
+    <li><a href="https://github.com/DBr-git/Haramdetector-MC-Plugin">Java Plugins for Minecraft</a></li>
     <li>World Robot Olympiad</li>
   </ul>
 </details>
