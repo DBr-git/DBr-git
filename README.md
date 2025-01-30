@@ -31,7 +31,7 @@
   <summary>Things I've been working on:</summary>
   <ul>
     <li><a href="https://github.com/DBr-git/game-flow">GameFlow App (Capstone Project)</a></li>
-    <li><a href="https://github.com/DBr-git/Haramdetector-MC-Plugin">Java Plugins for Minecraft</a></li>
+    <li>Java Plugins for Minecraft
     <li>World Robot Olympiad</li>
   </ul>
 </details>
