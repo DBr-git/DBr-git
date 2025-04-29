@@ -36,7 +36,16 @@
 </div>
 
 <br>
-
+<details>
+  <summary>Languages:</summary>
+  <ul>
+    <li>JavaScript</li>
+    <li>TypeScript</li>
+    <li>Java</li>
+    <li>Python</li>
+    <li>LaTeX</li>
+  </ul>
+</details>
 <details>
   <summary>Things I've been working on:</summary>
   <ul>
@@ -45,7 +54,6 @@
     <li>World Robot Olympiad</li>
   </ul>
 </details>
-<br>
 <details>
   <summary>Things I love:</summary>
   <ul>
