@@ -44,6 +44,7 @@
     <li>Java</li>
     <li>Python</li>
     <li>LaTeX</li>
+    <li>ShellScript</li>
   </ul>
 </details>
 <details>
